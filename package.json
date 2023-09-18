@@ -1,0 +1,15 @@
+{
+  "name": "employee-review-system",
+  "version": "1.0.0",
+  "description": "employee review",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Lawrence L",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
